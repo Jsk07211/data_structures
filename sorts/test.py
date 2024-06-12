@@ -1,4 +1,4 @@
-from sorting_algorithm import SortingAlgorithm
+from sorts.sorting_algorithm import SortingAlgorithm
 import random
 
 def rand_list():
